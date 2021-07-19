@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T16:00:05.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="F3mXFvT-wwqP-kWmjlrz" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T19:34:46.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="pYHEw4UXmAwDRhjxU-E7" version="14.8.6" type="github">
   <diagram id="8S26yh7zw3hv7WsyRnhw" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="4lC_RO47W-SszmYbyJJA-13" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry width="850" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lC_RO47W-SszmYbyJJA-14" value="RECEPCIÓN DE PEDIDOS MKP AL CENTRO DE DISTRIBUCIÓN" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="4lC_RO47W-SszmYbyJJA-14" value="RECEPCIÓN DE PEDIDOS MKP EN CENTRO DE DISTRIBUCIÓN" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="390" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4lC_RO47W-SszmYbyJJA-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="4lC_RO47W-SszmYbyJJA-15" target="4lC_RO47W-SszmYbyJJA-4">
